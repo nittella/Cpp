@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/dev/learning/C++/yellow_belt_projects/phone_nember/phone_number.cpp
+phone_number.h
+C:/dev/learning/C++/yellow_belt_projects/phone_nember/phone_number.h
+string
+-
+sstream
+-
+
+C:/dev/learning/C++/yellow_belt_projects/phone_nember/phone_number.h
+string
+-
+sstream
+-
+

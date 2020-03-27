@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="diploma" targetName="diploma" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5ec01fc-d36f-4ac4-989c-2769a1408376" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Python/yandex_course/Курс 4 Построение выводов по данным/.ipynb_checkpoints/week4_credit_scoring-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/yandex_course/Курс 4 Построение выводов по данным/.ipynb_checkpoints/week4_credit_scoring-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/yandex_course/Курс 4 Построение выводов по данным/stat.bootstrap_intervals.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/yandex_course/Курс 4 Построение выводов по данным/stat.bootstrap_intervals.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/yandex_course/Курс 4 Построение выводов по данным/stat.hi2_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/yandex_course/Курс 4 Построение выводов по данным/stat.hi2_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/yandex_course/Курс 4 Построение выводов по данным/week4_credit_scoring.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/yandex_course/Курс 4 Построение выводов по данным/week4_credit_scoring.ipynb" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atom.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmake-build-debug/output">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/converter_5.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8360">
+              <caret line="380" column="50" selection-start-line="380" selection-start-column="50" selection-end-line="380" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/circles_dict.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="21" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>o</find>
+      <find>h</find>
+      <find>max_bound_length</find>
+      <find>= 1.6</find>
+      <find>MAX_BOUND_LENGTH</find>
+      <find>,</find>
+      <find />
+      <find>O</find>
+      <find>MaxBoundLength</find>
+      <find>61</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gepoh6" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/c6h6_input" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/c10h8_input" />
+        <option value="$PROJECT_DIR$/internal_coordinates.cpp" />
+        <option value="$PROJECT_DIR$/cartesian_to_internal_coordinates_converter.cpp" />
+        <option value="$PROJECT_DIR$/cartesian_coordinates.cpp" />
+        <option value="$PROJECT_DIR$/cartesian_coordinates.h" />
+        <option value="$PROJECT_DIR$/func_group.h" />
+        <option value="$PROJECT_DIR$/conditions.h" />
+        <option value="$PROJECT_DIR$/conditions.cpp" />
+        <option value="$PROJECT_DIR$/internal_coordinat.h" />
+        <option value="$PROJECT_DIR$/internal_coordinat.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/input104_d" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/input104oh6" />
+        <option value="$PROJECT_DIR$/converter_2.h" />
+        <option value="$PROJECT_DIR$/distances_manager.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/ch4" />
+        <option value="$PROJECT_DIR$/distances_manager.cpp" />
+        <option value="$PROJECT_DIR$/atom.h" />
+        <option value="$PROJECT_DIR$/cartesian_atomic_coordinates.h" />
+        <option value="$PROJECT_DIR$/cartesian_atomic_coordinates.cpp" />
+        <option value="$PROJECT_DIR$/converter.h" />
+        <option value="$PROJECT_DIR$/cartesin_coordinate.h" />
+        <option value="$PROJECT_DIR$/converter.cpp" />
+        <option value="$PROJECT_DIR$/calculate_distance.cpp" />
+        <option value="$PROJECT_DIR$/calculate_distance.h" />
+        <option value="$PROJECT_DIR$/converter_3.cpp" />
+        <option value="$PROJECT_DIR$/distance_predicator.h" />
+        <option value="$PROJECT_DIR$/cartesin_coordinate.cpp" />
+        <option value="$PROJECT_DIR$/diviation_c6h6" />
+        <option value="$PROJECT_DIR$/converter_2.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/diviation_c3h6" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/deviations104" />
+        <option value="$PROJECT_DIR$/deviation_reader.h" />
+        <option value="$PROJECT_DIR$/atom.cpp" />
+        <option value="$PROJECT_DIR$/deviations_c6h6" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/out_1" />
+        <option value="$PROJECT_DIR$/deviation_reader.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/converter3.cpp" />
+        <option value="$PROJECT_DIR$/converter_4.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/internal_coordinate.h" />
+        <option value="$PROJECT_DIR$/internal_coordinate.cpp" />
+        <option value="$PROJECT_DIR$/internal_coordinate_type.h" />
+        <option value="$PROJECT_DIR$/internal_coordinate_type.cpp" />
+        <option value="$PROJECT_DIR$/internal_atomic_coordinates.h" />
+        <option value="$PROJECT_DIR$/internal_atomic_coordinates.cpp" />
+        <option value="$PROJECT_DIR$/circles_dict.h" />
+        <option value="$PROJECT_DIR$/converter_5.cpp" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/output" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="width" value="1245" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="diploma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diploma" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\coding\learning\C++\diploma\cmake-build-debug" />
+      <recent name="C:\coding\learning\C++\diploma\cmake-build-debug\CMakeFiles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\coding\learning\C++\diploma" />
+      <recent name="C:\coding\learning\C++\diploma\cmake-build-debug" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="diploma" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="diploma" TARGET_NAME="diploma" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="diploma" RUN_TARGET_NAME="diploma">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5ec01fc-d36f-4ac4-989c-2769a1408376" name="Default Changelist" comment="" />
+      <created>1568293928101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568293928101</updated>
+      <workItem from="1568293930594" duration="1722000" />
+      <workItem from="1568295703565" duration="1774000" />
+      <workItem from="1568297936817" duration="1778000" />
+      <workItem from="1568299769109" duration="1771000" />
+      <workItem from="1568301605437" duration="515000" />
+      <workItem from="1568302168351" duration="1216000" />
+      <workItem from="1568303436743" duration="1779000" />
+      <workItem from="1568305262491" duration="691000" />
+      <workItem from="1568310684717" duration="1192000" />
+      <workItem from="1568314061135" duration="592000" />
+      <workItem from="1568316987208" duration="386000" />
+      <workItem from="1568396315022" duration="23000" />
+      <workItem from="1568396572431" duration="1357000" />
+      <workItem from="1568448462965" duration="1774000" />
+      <workItem from="1568450280889" duration="1773000" />
+      <workItem from="1568452102161" duration="1774000" />
+      <workItem from="1568454069466" duration="1779000" />
+      <workItem from="1568455889345" duration="1178000" />
+      <workItem from="1568537881018" duration="1037000" />
+      <workItem from="1568539702603" duration="225000" />
+      <workItem from="1568539970114" duration="958000" />
+      <workItem from="1568577067903" duration="1773000" />
+      <workItem from="1568578881289" duration="1410000" />
+      <workItem from="1568583957119" duration="1282000" />
+      <workItem from="1568736994935" duration="1430000" />
+      <workItem from="1568738832303" duration="770000" />
+      <workItem from="1568740739865" duration="656000" />
+      <workItem from="1568745437359" duration="1245000" />
+      <workItem from="1568747277758" duration="1207000" />
+      <workItem from="1568748645203" duration="461000" />
+      <workItem from="1568783214796" duration="1786000" />
+      <workItem from="1568785028158" duration="1785000" />
+      <workItem from="1568786857146" duration="1786000" />
+      <workItem from="1568788667751" duration="1788000" />
+      <workItem from="1568790481810" duration="1780000" />
+      <workItem from="1568792295138" duration="1781000" />
+      <workItem from="1568794134700" duration="2046000" />
+      <workItem from="1568796218930" duration="1802000" />
+      <workItem from="1568798070869" duration="1778000" />
+      <workItem from="1568799888795" duration="1832000" />
+      <workItem from="1568801787717" duration="257000" />
+      <workItem from="1568805808466" duration="1221000" />
+      <workItem from="1568808171085" duration="1775000" />
+      <workItem from="1568809995903" duration="591000" />
+      <workItem from="1568869037582" duration="693000" />
+      <workItem from="1568873384295" duration="1297000" />
+      <workItem from="1568878462948" duration="1178000" />
+      <workItem from="1568881430109" duration="945000" />
+      <workItem from="1568883245983" duration="1772000" />
+      <workItem from="1568885058415" duration="1550000" />
+      <workItem from="1568887286605" duration="1252000" />
+      <workItem from="1568889818040" duration="1712000" />
+      <workItem from="1568892301288" duration="1667000" />
+      <workItem from="1568896262484" duration="1581000" />
+      <workItem from="1568902212718" duration="1765000" />
+      <workItem from="1569046357982" duration="1723000" />
+      <workItem from="1569048165535" duration="1775000" />
+      <workItem from="1569049980434" duration="1776000" />
+      <workItem from="1569052372502" duration="1791000" />
+      <workItem from="1569054186616" duration="1680000" />
+      <workItem from="1569056012728" duration="619000" />
+      <workItem from="1569064478803" duration="1785000" />
+      <workItem from="1569066300850" duration="1756000" />
+      <workItem from="1569068112972" duration="1783000" />
+      <workItem from="1569069944881" duration="1870000" />
+      <workItem from="1569071847815" duration="1646000" />
+      <workItem from="1569079007691" duration="1690000" />
+      <workItem from="1569080826719" duration="1790000" />
+      <workItem from="1569083642652" duration="1450000" />
+      <workItem from="1569086212524" duration="1840000" />
+      <workItem from="1569088088700" duration="1693000" />
+      <workItem from="1569089912560" duration="945000" />
+      <workItem from="1569139745479" duration="2031000" />
+      <workItem from="1569150609780" duration="924000" />
+      <workItem from="1569153103432" duration="1640000" />
+      <workItem from="1569155006830" duration="1435000" />
+      <workItem from="1569160200782" duration="1592000" />
+      <workItem from="1569178665555" duration="1353000" />
+      <workItem from="1569180507433" duration="1210000" />
+      <workItem from="1569208486334" duration="1775000" />
+      <workItem from="1569210296392" duration="1843000" />
+      <workItem from="1569212174630" duration="1784000" />
+      <workItem from="1569213988817" duration="1842000" />
+      <workItem from="1569219883438" duration="941000" />
+      <workItem from="1569223818309" duration="1519000" />
+      <workItem from="1569226725466" duration="1770000" />
+      <workItem from="1569228533273" duration="1713000" />
+      <workItem from="1569230343742" duration="2044000" />
+      <workItem from="1569232687696" duration="1812000" />
+      <workItem from="1569241875292" duration="598000" />
+      <workItem from="1569243764368" duration="1791000" />
+      <workItem from="1569245607951" duration="1842000" />
+      <workItem from="1569247481354" duration="1662000" />
+      <workItem from="1569385266422" duration="1776000" />
+      <workItem from="1569387075307" duration="1907000" />
+      <workItem from="1569389012162" duration="1721000" />
+      <workItem from="1569390827115" duration="1617000" />
+      <workItem from="1569392639899" duration="177000" />
+      <workItem from="1569395102127" duration="826000" />
+      <workItem from="1569399297256" duration="1786000" />
+      <workItem from="1569401124672" duration="1785000" />
+      <workItem from="1569402933187" duration="1789000" />
+      <workItem from="1569404764629" duration="1810000" />
+      <workItem from="1569406843855" duration="1904000" />
+      <workItem from="1569409212686" duration="598000" />
+      <workItem from="1569420465664" duration="1733000" />
+      <workItem from="1569422487225" duration="1139000" />
+      <workItem from="1569424298826" duration="1308000" />
+      <workItem from="1569738965473" duration="1707000" />
+      <workItem from="1569741304003" duration="599000" />
+      <workItem from="1569744358152" duration="1222000" />
+      <workItem from="1569746212981" duration="1991000" />
+      <workItem from="1569748575075" duration="1818000" />
+      <workItem from="1569750507525" duration="1449000" />
+      <workItem from="1569758254846" duration="1553000" />
+      <workItem from="1569760155200" duration="1845000" />
+      <workItem from="1569762029534" duration="1791000" />
+      <workItem from="1569763992255" duration="599000" />
+      <workItem from="1569766030520" duration="1490000" />
+      <workItem from="1569767842659" duration="1474000" />
+      <workItem from="1569769661280" duration="1785000" />
+      <workItem from="1569771494483" duration="1784000" />
+      <workItem from="1569773317941" duration="1844000" />
+      <workItem from="1569775472867" duration="959000" />
+      <workItem from="1569778424399" duration="1498000" />
+      <workItem from="1569780239356" duration="1783000" />
+      <workItem from="1569782055816" duration="733000" />
+      <workItem from="1569784030990" duration="1630000" />
+      <workItem from="1569785856840" duration="1495000" />
+      <workItem from="1569787723017" duration="646000" />
+      <workItem from="1569885216560" duration="1836000" />
+      <workItem from="1569887237463" duration="936000" />
+      <workItem from="1569889804725" duration="4000" />
+      <workItem from="1569892284142" duration="1782000" />
+      <workItem from="1569894083971" duration="1508000" />
+      <workItem from="1569895894982" duration="1791000" />
+      <workItem from="1569897707268" duration="1741000" />
+      <workItem from="1569899580191" duration="1859000" />
+      <workItem from="1569901469309" duration="935000" />
+      <workItem from="1569906398070" duration="1713000" />
+      <workItem from="1569911931213" duration="1766000" />
+      <workItem from="1569915603763" duration="915000" />
+      <workItem from="1569918026105" duration="1423000" />
+      <workItem from="1569919863597" duration="1783000" />
+      <workItem from="1569921674241" duration="1597000" />
+      <workItem from="1569924714120" duration="2023000" />
+      <workItem from="1569926788060" duration="1482000" />
+      <workItem from="1569928731493" duration="603000" />
+      <workItem from="1569929355076" duration="2246000" />
+      <workItem from="1569948256761" duration="3000" />
+      <workItem from="1570092079540" duration="1465000" />
+      <workItem from="1570110446925" duration="3000" />
+      <workItem from="1570124417515" duration="684000" />
+      <workItem from="1570134093145" duration="974000" />
+      <workItem from="1570256661576" duration="598000" />
+      <workItem from="1570345929153" duration="1115000" />
+      <workItem from="1570348196113" duration="1770000" />
+      <workItem from="1570350025243" duration="1772000" />
+      <workItem from="1570351955068" duration="1775000" />
+      <workItem from="1570353769343" duration="980000" />
+      <workItem from="1570358592009" duration="1671000" />
+      <workItem from="1570361103720" duration="618000" />
+      <workItem from="1570363103371" duration="1798000" />
+      <workItem from="1570364940068" duration="1698000" />
+      <workItem from="1570414674508" duration="1782000" />
+      <workItem from="1570416491279" duration="1782000" />
+      <workItem from="1570418309209" duration="1715000" />
+      <workItem from="1570420469985" duration="828000" />
+      <workItem from="1570441068015" duration="1631000" />
+      <workItem from="1570442977227" duration="1467000" />
+      <workItem from="1570450975477" duration="712000" />
+      <workItem from="1570460304330" duration="15000" />
+      <workItem from="1570556601698" duration="554000" />
+      <workItem from="1570609580479" duration="964000" />
+      <workItem from="1570612361695" duration="1756000" />
+      <workItem from="1570614399080" duration="1767000" />
+      <workItem from="1570616214583" duration="1406000" />
+      <workItem from="1570621004380" duration="1683000" />
+      <workItem from="1570622814811" duration="1914000" />
+      <workItem from="1570624774119" duration="1018000" />
+      <workItem from="1570626615116" duration="1599000" />
+      <workItem from="1570629060234" duration="1334000" />
+      <workItem from="1570630883296" duration="1222000" />
+      <workItem from="1570634600576" duration="1865000" />
+      <workItem from="1570636560207" duration="996000" />
+      <workItem from="1570696891449" duration="961000" />
+      <workItem from="1570699501880" duration="1846000" />
+      <workItem from="1570702094331" duration="1866000" />
+      <workItem from="1570704060443" duration="1262000" />
+      <workItem from="1570714069753" duration="1784000" />
+      <workItem from="1570715900971" duration="1337000" />
+      <workItem from="1570719866666" duration="1853000" />
+      <workItem from="1570725989178" duration="10000" />
+      <workItem from="1570727791424" duration="1377000" />
+      <workItem from="1570806578995" duration="2000" />
+      <workItem from="1570956176152" duration="3000" />
+      <workItem from="1571811067072" duration="469000" />
+      <workItem from="1579565472271" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="273528000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.32955465" />
+      <window_info id="Structure" order="1" sideWeight="0.50476193" side_tool="true" weight="0.15708502" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8080972" visible="true" weight="0.3339254" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49716598" weight="0.44227353" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50364375" side_tool="true" weight="0.56483126" />
+      <window_info anchor="bottom" id="CMake" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.8186235" weight="0.25577265" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32955465" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.254251" />
+      <window_info id="Structure" order="1" sideWeight="0.50476193" side_tool="true" weight="0.15708502" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8080972" visible="true" weight="0.36412078" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49716598" weight="0.44227353" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285968" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50364375" side_tool="true" weight="0.56483126" />
+      <window_info anchor="bottom" id="CMake" order="10" weight="0.3285968" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.8186235" weight="0.25932506" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3285968" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32955465" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/converter.cpp</url>
+          <line>273</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>71</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>62</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/deviation_reader.cpp</url>
+          <line>137</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/deviation_reader.cpp</url>
+          <line>267</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/converter_4.cpp</url>
+          <line>54</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/converter_4.cpp</url>
+          <line>70</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/conditions.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/gepoh6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/input104oh6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/input104_d">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/c10h8_input">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/input104">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="58" column="26" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_parser.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#14#33#0" expanded="true" />
+            <element signature="e#159#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../mingw-w64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/tuple">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="1667" column="69" selection-start-line="1667" selection-start-column="69" selection-end-line="1667" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6534">
+          <caret line="297" column="25" selection-start-line="297" selection-start-column="25" selection-end-line="297" selection-end-column="25" />
+          <folding>
+            <marker date="1569906540216" expanded="true" signature="8768:10314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cartesin_coordinate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#14#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string_parser.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../mingw-w64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_tree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="286" selection-start-line="286" selection-end-line="286" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distances_manager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="49" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+          <folding>
+            <element signature="e#14#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculate_distance.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/ch4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converter_2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <element signature="e#13#32#0" expanded="true" />
+            <element signature="e#458#470#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distance_predicator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distances_manager.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deviation_reader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#14#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/deviations104">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/deviations_c3h6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculate_distance.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/out_2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <element signature="e#13#32#0" expanded="true" />
+            <element signature="e#458#470#0" expanded="true" />
+            <element signature="e#626#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/out_1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cartesian_atomic_coordinates.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#14#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/c6h6_input">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/deviations_c6h6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converter_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2794">
+          <caret line="127" column="33" selection-start-line="125" selection-start-column="16" selection-end-line="130" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atom.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deviation_reader.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="117" column="33" selection-start-line="117" selection-start-column="33" selection-end-line="117" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converter_3.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/out_3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converter_5.h" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converter_4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="14" column="23" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal_coordinate_type.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal_coordinate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#14#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal_coordinate_type.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal_coordinate.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cartesian_atomic_coordinates.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cartesin_coordinate.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal_atomic_coordinates.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="52" column="39" lean-forward="true" selection-start-line="52" selection-start-column="39" selection-end-line="52" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internal_atomic_coordinates.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atom.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/output">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-end-line="103" />
+        </state>
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state relative-caret-position="66">
+          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/converter_5.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8360">
+          <caret line="380" column="50" selection-start-line="380" selection-start-column="50" selection-end-line="380" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circles_dict.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

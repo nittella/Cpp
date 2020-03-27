@@ -1,0 +1,4 @@
+"C:\Users\lisav\AppData\Local\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\dev\learning\C++\yellow_belt_projects\sum_reverse_sort
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/dev/learning/C++/yellow_belt_projects/sum_reverse_sort/cmake-build-debug

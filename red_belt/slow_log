@@ -1,0 +1,17 @@
+Compile error: b"In file included from /usr/include/c++/7/bits/stl_tempbuf.h:60:0,\n
+                 from /usr/include/c++/7/bits/stl_algo.h:62,\n
+                 from /usr/include/c++/7/algorithm:62,\n
+                 from /tmp/submission8q5rxoeu/merge_sort_3.cpp:1:\n/usr/include/c++/
+                 7/bits/stl_construct.h: In instantiation of 'void std::_Construct(_T1*,
+                 _Args&& ...) [with _T1 = __CourseraMoveTracker; _Args = {}]':\n/usr/in
+                 clude/c++/7/bits/stl_uninitialized.h:527:18:   required from 'static
+                 _ForwardIterator std::__uninitialized_default_n_1<_TrivialValueType>::
+                 __uninit_default_n(_ForwardIterator, _Size) [with _ForwardIterator = _
+                 _CourseraMoveTracker*; _Size = long unsigned int; bool _TrivialValueTy
+                 pe = false]'\n/usr/include/c++/7/bits/stl_uninitialized.h:583:20:
+                 required from '_ForwardIterator std::__uninitialized_default_n
+                 (_ForwardIterator, _Size) [with _ForwardIterator
+                 = __CourseraMoveTracker*; _Size = long unsigned int]'
+                 \n/usr/include/c++/7/bits/stl_uninitialized.h:645:44:
+                 required from '_ForwardIterator std::__uninitialized_default_n_a(
+                 _ForwardIterator, _Size, std::allocator<_Tp>&) [with _ForwardIterator = __CourseraMoveTracker*; _Size = long unsigned int; _Tp = __CourseraMoveTracker]'\n/usr/include/c++/7/bits/stl_vector.h:1347:36:   required from 'void std::vector<_Tp, _Alloc>::_M_default_initialize(std::vector<_Tp, _Alloc>::size_type) [with _Tp = __CourseraMoveTracker; _Alloc = std::allocator<__CourseraMoveTracker>; std::vector<_Tp, _Alloc>::size_type = long unsigned int]'\n/usr/include/c++/7/bits/stl_vector.h:285:30:   required from 'std::vector<_Tp, _Alloc>::vector(std::vector<_Tp, _Alloc>::size_type, const allocator_type&) [with _Tp = __CourseraMoveTracker; _Alloc = std::allocator<__CourseraMoveTracker>; std::vector<_Tp, _Alloc>::size_type = long unsigned int; std::vector<_Tp, _Alloc>::allocator_type = std::allocator<__CourseraMoveTracker>]'\n/tmp/submission8q5rxoeu/merge_sort_3.cpp:79:46:   required from 'void MergeSort(RandomIt, RandomIt) [with RandomIt = __gnu_cxx::__normal_iterator<__CourseraMoveTracker*, std::vector<__CourseraMoveTracker> >]'\n/tmp/submission8q5rxoeu/merge_sort_3.cpp:248:41:   required from here\n/usr/include/c++/7/bits/stl_construct.h:75:7: error: no matching function for call to '__CourseraMoveTracker::__CourseraMoveTracker()'\n     { ::new(static_cast<void*>(__p)) _T1(std::forward<_Args>(__args)...); }\n       ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\ncompilation terminated due to -Wfatal-errors.\n"

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/coding/learning/C++/red_belt/priority_collection_2_2.cpp
+test_runner.h
+C:/coding/learning/C++/red_belt/test_runner.h
+algorithm
+-
+iostream
+-
+iterator
+-
+memory
+-
+set
+-
+utility
+-
+vector
+-
+list
+-
+
+C:/coding/learning/C++/red_belt/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/coding/learning/C++/test/date.h
+iostream
+-
+stdexcept
+-
+sstream
+-
+vector
+-
+iomanip
+-
+
+C:/coding/learning/C++/test/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+set
+-
+string
+-
+date.h
+C:/coding/learning/C++/test/date.h
+

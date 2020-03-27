@@ -1,0 +1,207 @@
+tests
+1) Wrong date format: на командах Add, Find, Del
+Add --1-2-3 e1
+Add -1---2-3 e
+Add -1-2---3 e
+Add -1-2-3- e
+Add -1-b-3 e
+Add -1-2-3-b e
+Add -1-2---3 e
+Add -1-2---3b- e
+Add -1-2-3b e
+Add -b-e-3 e
+Add ---1-2-3 e
+Add -b2-3-4 e
+Add -2b-3-4 e
+Add -2-b3-4 e
+Add -2-3b-4 e
+Add -2-3-b4 e
+Add -2-3-4b e
+Add -2-3-4-5 e
+Add -.-2-4 e
+Add -0.2-2-4 e
+Add -,-,-, e
+Add -2-.-3 e
+Add -2-,-3 e
+Add asdasd e
+Add 1321 e
+Add $%^&*( e
+Find --1-2-3 e1
+Find -1---2-3 e
+Find -1-2---3 e
+Find -1-2-3- e
+Find -1-b-3 e
+Find -1-2-3-b e
+Find -1-2---3 e
+Find -1-2---3b- e
+Find -1-2-3b e
+Find -b-e-3 e
+Find ---1-2-3 e
+Find -b2-3-4 e
+Find -2b-3-4 e
+Find -2-b3-4 e
+Find -2-3b-4 e
+Find -2-3-b4 e
+Find -2-3-4b e
+Find -2-3-4-5 e
+Find -.-2-4 e
+Find -0.2-2-4 e
+Find -,-,-, e
+Find -2-.-3 e
+Find -2-,-3 e
+Find asdasd e
+Find 1321 e
+Find $%^&*( e
+Del --1-2-3 e1
+Del -1---2-3 e
+Del -1-2---3 e
+Del -1-2-3- e
+Del -1-b-3 e
+Del -1-2-3-b e
+Del -1-2---3 e
+Del -1-2---3b- e
+Del -1-2-3b e
+Del -b-e-3 e
+Del ---1-2-3 e
+Del -b2-3-4 e
+Del -2b-3-4 e
+Del -2-b3-4 e
+Del -2-3b-4 e
+Del -2-3-b4 e
+Del -2-3-4b e
+Del -2-3-4-5 e
+Del -.-2-4 e
+Del -0.2-2-4 e
+Del -,-,-, e
+Del -2-.-3 e
+Del -2-,-3 e
+Del asdasd e
+Del 1321 e
+Del $%^&*( e
+
+2) Month value is invalid: на командах Add, Find, Del
+Add -1-13-4 e
+Add -1-13-32 e
+Add -1--1-1 e
+Add -1--1--1 e
+Add -1--32--123 e
+Add -1-0-1 e
+Add -1--0-1 e
+
+Find -1-13-4 e
+Find -1-13-32 e
+Find -1--1-1 e
+Find -1--1--1 e
+Find -1--32--123 e
+Find -1-0-1 e
+Find -1--0-1 e
+
+Del -1-13-4 e
+Del -1-13-32 e
+Del -1--1-1 e
+Del -1--1--1 e
+Del -1--32--123 e
+Del -1-0-1 e
+Del -1--0-1 e
+
+3) Day value is invalid: на командах Add, Find, Del
+Add 1-2-32 e
+Add 1-2--32 e
+Add 1-2--2 e
+Add 1-2--0 e
+Add 1-2-0 e
+
+Find 1-2-32 e
+Find 1-2--32 e
+Find 1-2--2 e
+Find 1-2--0 e
+Find 1-2-0 e
+
+Del 1-2-32 e
+Del 1-2--32 e
+Del 1-2--2 e
+Del 1-2--0 e
+Del 1-2-0 e
+
+
+4)Перенос строки endl
+Add, если событие добавлено без ошибок
+Find, если даты не существует
+Print, если БД пустая.
+
+5) Abort trap: 6 /Unknown signal 6
+Add
+Add 1-2-3
+Add 1-2-3 asd asd
+Add 99999999999-2-3 asd
+Add 2-9999999999-2 asd
+Add 2-2-999999999999 asd
+Find
+Del
+Find 1-2-3 dsa
+Del 1-2-3 dsa asd
+
+
+6) Корректно:
+Add 1-2-3 e1
+Add 1-2-3 e2
+Add 1-12-12 e1
+Add 1-01-01 e1
+Add 1-12-31 e2
+
+Print
+0001-01-01 e1
+0001-02-03 e1
+0001-02-03 e2
+0001-12-12 e1
+0001-12-31 e2
+
+Del 1-2-3 e2
+Del 1-2-3
+Del 1-12-31
+
+Deleted successfully
+Deleted 1 events
+Deleted 1 events
+*/
+  Print
+/*
+0001-01-01 e1
+0001-12-12 e1
+*/
+  Add 1-1-1 e2
+  Add 1-1-1 e3
+  Find 1-1-1
+/*
+e1
+e2
+e3
+*/
+  Print
+/*
+0001-01-01 e1
+0001-01-01 e2
+0001-01-01 e3
+0001-12-12 e1
+*/
+  Del 1-1-1
+//Deleted 3 events
+  Del 1-12-12
+//Deleted 1 events
+  Del 1-12-12
+//Deleted 0 events
+  Print
+//
+
+Add 1-1-1 e2
+Add 1-1-1 e3
+
+Print
+0001-01-01 e2
+0001-01-01 e3
+Del 1-1-1 e1
+Event not found
+Del 1-1-1 e2
+Deleted successfully
+Del 1-1-1 e3
+Deleted successfully

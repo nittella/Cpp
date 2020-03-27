@@ -1,0 +1,3 @@
+C:/dev/learning/C++/yellow_belt_projects/phone_nember/cmake-build-debug/CMakeFiles/phone_nember.dir
+C:/dev/learning/C++/yellow_belt_projects/phone_nember/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/dev/learning/C++/yellow_belt_projects/phone_nember/cmake-build-debug/CMakeFiles/rebuild_cache.dir

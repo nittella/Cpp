@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="diploma"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/coding/learning/C++/diploma/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/coding/learning/C++/diploma/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="diploma">
+				<Option output="C:/coding/learning/C++/diploma/cmake-build-debug/diploma.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/coding/learning/C++/diploma/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 diploma"/>
+					<CompileFile command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="diploma/fast">
+				<Option output="C:/coding/learning/C++/diploma/cmake-build-debug/diploma.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/coding/learning/C++/diploma/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/coding/mingw-w64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 diploma/fast"/>
+					<CompileFile command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/coding/learning/C++/diploma/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/coding/mingw-w64/mingw64/bin/mingw32-make.exe -f &quot;C:/coding/learning/C++/diploma/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/coding/learning/C++/diploma/atom.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/atom.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/calculate_distance.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/calculate_distance.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/cartesian_atomic_coordinates.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/cartesian_atomic_coordinates.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/cartesin_coordinate.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/cartesin_coordinate.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/circles_dict.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/conditions.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/conditions.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/converter.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/converter_5.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/deviation_reader.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/deviation_reader.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/distance_predicator.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/distances_manager.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/distances_manager.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/internal_atomic_coordinates.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/internal_atomic_coordinates.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/internal_coordinate.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/internal_coordinate.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/internal_coordinate_type.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/internal_coordinate_type.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/main.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/string_parser.cpp">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/string_parser.h">
+			<Option target="diploma"/>
+		</Unit>
+		<Unit filename="C:/coding/learning/C++/diploma/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

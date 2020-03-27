@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/dev/learning/C++/yellow_belt_projects/print_vector_part/print_vector_part.cpp
+print_vector_part.h
+C:/dev/learning/C++/yellow_belt_projects/print_vector_part/print_vector_part.h
+
+C:/dev/learning/C++/yellow_belt_projects/print_vector_part/print_vector_part.h
+iostream
+-
+vector
+-
+algorithm
+-
+

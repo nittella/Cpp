@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/coding/learning/C++/course_project_yellow/database.cpp
+database.h
+C:/coding/learning/C++/course_project_yellow/database.h
+
+C:/coding/learning/C++/course_project_yellow/database.h
+date.h
+C:/coding/learning/C++/course_project_yellow/date.h
+string
+-
+vector
+-
+map
+-
+set
+-
+algorithm
+-
+
+C:/coding/learning/C++/course_project_yellow/date.h
+iostream
+-
+stdexcept
+-
+sstream
+-
+vector
+-
+iomanip
+-
+
